@@ -4,6 +4,10 @@
 A modern, responsive dashboard application built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring user authentication, data visualization, and profile management.
 
 ---
+![Moonride Dashboard Screenshot](https://github.com/mrGupta04/Moonrider/blob/main/images/1.png?raw=true)
+![Moonride Dashboard Screenshot](https://github.com/mrGupta04/Moonrider/blob/main/images/2.png?raw=true)
+![Moonride Dashboard Screenshot](https://github.com/mrGupta04/Moonrider/blob/main/images/3.png?raw=true)
+![Moonride Dashboard Screenshot](https://github.com/mrGupta04/Moonrider/blob/main/images/4.png?raw=true)
 
 ## 🌟 Features
 
